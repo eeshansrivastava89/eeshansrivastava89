@@ -10,7 +10,7 @@ In my free time, I enjoy running, painting, reading, and basketball.
 
 🔭 I’m currently working on building a [full-stack web app](https://eeshans.com/ab-simulator/) that shows A/B Testing in action by putting the user inside an experiment, displays live stats as more users join the experiment, and publishes a full statistical analysis to help make the final decision. 
 
-👯 I’m looking to collaborate on building data-science focused web apps on my (personal lab)[https://eeshans.com/]. Absolutely non-commercial and for learning only. Building & creating without limits. 
+👯 I’m looking to collaborate on building data-science focused web apps on my [personal lab](https://eeshans.com/). Absolutely non-commercial and for learning only. Building & creating without limits. 
 
 📫 How to reach me: [LinkedIn](https://eeshans.com/)
 
