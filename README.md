@@ -12,7 +12,7 @@ In my free time, I enjoy running, painting, reading, and basketball.
 
 👯 I’m looking to collaborate on building data-science focused web apps on my [personal lab](https://eeshans.com/). Absolutely non-commercial and for learning only. Building & creating without limits. 
 
-📫 How to reach me: [LinkedIn](https://eeshans.com/)
+📫 How to reach me: [LinkedIn](https://eeshans.com/) | Follow updates through my [newsletter](https://0to1datascience.substack.com/)
 
 <!-- - 💬 Ask me about ... -->
 <!-- - 🌱 I’m currently learning  -->
