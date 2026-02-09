@@ -6,7 +6,7 @@ I'm _Eeshan_. I lead a data science team at Starbucks focused on AI/ML, personal
 
 On the side, I build apps on AI, data science & privacy to understand what actually holds up beyond the demo. Each project goes end-to-end — design, engineering, analytics, real users, published analysis. Everything here is open source and non-commercial.
 
-- 🔬 **Latest project**: Local LLM Bench — how accurate are local LLMs at structured extraction? Benchmarks across MLX and Ollama with F1 scoring and interactive reports.
+- 🔬 **Latest project**: [Local LLM Bench](https://eeshansrivastava89.github.io/local-llm-bench/) — how accurate are local LLMs at structured extraction? Benchmarks across MLX and Ollama with F1 scoring and interactive reports.
 - ✍️ **Writing**: [Asymptotic](https://theasymptotic.substack.com/) — pragmatic takes on AI, data science, and privacy. Past the hype cycles.
 - 📫 **How to reach me**: [LinkedIn](https://eeshans.com/) | [Twitter / X](https://x.com/notesundrground)
 
