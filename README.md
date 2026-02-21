@@ -4,7 +4,7 @@ I'm _Eeshan_. I lead a data science team at Starbucks focused on AI/ML, personal
 
 12+ years across engineering, marketing analytics, modeling, and team leadership. CS undergrad, MBA. Not ex-FAANG. Not Ivy League. Just someone who likes making things work, learning by doing, and working with smart people.
 
-On the side, I build apps on AI, data science & privacy to understand what actually holds up beyond the demo. Each project goes end-to-end — design, engineering, analytics, real users, published analysis. Everything here is open source and non-commercial.
+On the side, I build apps on AI, data science & privacy to see what will hold up beyond the hype cycles. Each project goes end-to-end — design, engineering, analytics, real users, published analysis. Everything here is open source and non-commercial.
 
 🔬 **Latest projects**: 
 - [A/B Testing Memory Game](https://eeshans.com/ab-simulator/) — a live experiment on difficulty and player behavior, with published statistical analysis. Play and contribute to the "power"!
