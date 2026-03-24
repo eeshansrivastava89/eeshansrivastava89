@@ -9,22 +9,32 @@
 ![Astro](https://img.shields.io/badge/Astro-111827?style=flat&logo=astro&logoColor=white)
 ![Privacy](https://img.shields.io/badge/Privacy-374151?style=flat)
 
-I lead a data science team at Starbucks working on AI/ML, personalization, and experimentation for products used by 40M+ users. Outside work, I build open-source AI, data science, and privacy projects end-to-end, then publish the analysis behind them.
+> Building open-source experiments and tools around AI, data science, privacy, and local-first software. At Starbucks, I lead data science for AI/ML, personalization, and experimentation on products used by 40M+ users.
 
-🌐 [eeshans.com](https://eeshans.com) — portfolio hub for projects, writing, and analysis.
+🌐 [eeshans.com](https://eeshans.com) ([repo](https://github.com/eeshansrivastava89/datascienceapps)) — portfolio hub for projects, writing, and analysis.  
+✍️ [Asymptotic](https://eeshans.com/writing) — pragmatic takes on AI, data science, and privacy.
 
-## Current Projects
+## Projects
+
+### Experiments & Analysis
 
 - 🧠 [A/B Testing Memory Game](https://github.com/eeshansrivastava89/ab-simulator) — live experiment on game difficulty and player behavior, with published statistical analysis.
 - 📊 [How I Prompt](https://github.com/eeshansrivastava89/howiprompt) — analyzes Claude conversation history and generates a wrapped-style report.
 - 🦙 [Local LLM Bench](https://github.com/eeshansrivastava89/local-llm-bench) — benchmarks MLX and Ollama models on structured data extraction accuracy.
+
+### Developer Tools
+
 - 🗂️ [Sidequests](https://github.com/eeshansrivastava89/sidequests) — local dashboard that scans your repos and summarizes project health, GitHub state, and next actions.
-- 🔒 [Privacy Checker](https://github.com/eeshansrivastava89/privacy-checker) — local-first privacy audit tooling with a desktop UI and deterministic checks.
+- 🧭 [Repo Visualizer Kit](https://github.com/eeshansrivastava89/repo-visualizer-kit) — reusable kit for visualizing codebases, also integrated with a Codex skill.
+
+### Apps & Utilities
+
+- ❓ [Quizzard](https://github.com/eeshansrivastava89/quizzard) — real-time quiz app for live events; a free, self-hosted Kahoot or Mentimeter alternative.
 - 🌦️ [Weather App](https://github.com/eeshansrivastava89/weather-app) — weather explorer for US ZIP codes with current, historical, and forecast data.
 
-## Writing
+### Platform
 
-- ✍️ [Asymptotic](https://eeshans.com/writing) — pragmatic takes on AI, data science, and privacy. Past the hype cycles.
+- 🌐 [datascienceapps](https://github.com/eeshansrivastava89/datascienceapps) — collection of 0 to 1 full-stack data science web apps built with Astro, PostHog, Supabase, and Python.
 
 ## Reach Me
 
