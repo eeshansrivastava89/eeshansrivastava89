@@ -1,23 +1,31 @@
-## Hi there 👋
+# Hi, I'm Eeshan 👋
 
-I'm _Eeshan_. I lead a data science team at Starbucks focused on AI/ML, personalization, and experimentation, including recommendation models powering the Starbucks app for 40M+ users.
+📍 Seattle | ☕ Sr. Data Science Manager @ Starbucks | 🧪 AI/ML, personalization, experimentation | ✍️ Writing at [Asymptotic](https://eeshans.com/writing)
 
-12+ years across engineering, marketing analytics, modeling, and team leadership. CS undergrad, MBA. Not ex-FAANG. Not Ivy League. Just someone who likes making things work, learning by doing, and working with smart people.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-1f2937?style=flat)
+![Experimentation](https://img.shields.io/badge/Experimentation-0f766e?style=flat)
+![LLMs](https://img.shields.io/badge/LLMs-7c3aed?style=flat)
+![Astro](https://img.shields.io/badge/Astro-111827?style=flat&logo=astro&logoColor=white)
+![Privacy](https://img.shields.io/badge/Privacy-374151?style=flat)
 
-On the side, I build apps on AI, data science & privacy to see what will hold up beyond the hype cycles. Each project goes end-to-end — design, engineering, analytics, real users, published analysis. Everything here is open source and non-commercial.
+I lead a data science team at Starbucks working on AI/ML, personalization, and experimentation for products used by 40M+ users. Outside work, I build open-source AI, data science, and privacy projects end-to-end, then publish the analysis behind them.
 
-🔬 **Latest projects**: 
-- [A/B Testing Memory Game](https://eeshans.com/ab-simulator/) — a live experiment on difficulty and player behavior, with published statistical analysis. Play and contribute to the "power"!
-- [Local LLM Bench](https://eeshansrivastava89.github.io/local-llm-bench/) — benchmarking local model accuracy on structured data extraction across MLX and Ollama
-- [How I Prompt](https://howiprompt.eeshans.com/) — analyze your Claude conversation history and discover your prompting patterns
+🌐 [eeshans.com](https://eeshans.com) — portfolio hub for projects, writing, and analysis.
 
-✍️ **Writing**: [Asymptotic](https://theasymptotic.substack.com/) — pragmatic takes on AI, data science, and privacy. Past the hype cycles.
+## Current Projects
 
-📫 **How to reach me**: [LinkedIn](https://eeshans.com/) | [Twitter / X](https://x.com/notesundrground)
+- 🧠 [A/B Testing Memory Game](https://github.com/eeshansrivastava89/ab-simulator) — live experiment on game difficulty and player behavior, with published statistical analysis.
+- 📊 [How I Prompt](https://github.com/eeshansrivastava89/howiprompt) — analyzes Claude conversation history and generates a wrapped-style report.
+- 🦙 [Local LLM Bench](https://github.com/eeshansrivastava89/local-llm-bench) — benchmarks MLX and Ollama models on structured data extraction accuracy.
+- 🗂️ [Sidequests](https://github.com/eeshansrivastava89/sidequests) — local dashboard that scans your repos and summarizes project health, GitHub state, and next actions.
+- 🔒 [Privacy Checker](https://github.com/eeshansrivastava89/privacy-checker) — local-first privacy audit tooling with a desktop UI and deterministic checks.
+- 🌦️ [Weather App](https://github.com/eeshansrivastava89/weather-app) — weather explorer for US ZIP codes with current, historical, and forecast data.
 
-In my free time, I enjoy kickboxing, running, painting, reading, and basketball.
+## Writing
 
-<!-- - 💬 Ask me about ... -->
-<!-- - 🌱 I’m currently learning  -->
-<!-- - ⚡ Fun fact: ... -->
+- ✍️ [Asymptotic](https://eeshans.com/writing) — pragmatic takes on AI, data science, and privacy. Past the hype cycles.
 
+## Reach Me
+
+- [LinkedIn](https://www.linkedin.com/in/eeshans/) | [Twitter / X](https://x.com/notesundrground) | [eeshans.com](https://eeshans.com)
