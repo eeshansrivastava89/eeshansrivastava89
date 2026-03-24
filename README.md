@@ -16,23 +16,22 @@
 
 ## Projects
 
-### Experiments & Analysis
+### What happens when you treat products like experiments?
 
 - 🧠 [A/B Testing Memory Game](https://github.com/eeshansrivastava89/ab-simulator) — live experiment on game difficulty and player behavior, with published statistical analysis.
 - 📊 [How I Prompt](https://github.com/eeshansrivastava89/howiprompt) — analyzes Claude conversation history and generates a wrapped-style report.
 - 🦙 [Local LLM Bench](https://github.com/eeshansrivastava89/local-llm-bench) — benchmarks MLX and Ollama models on structured data extraction accuracy.
 
-### Developer Tools
+### What tools do I wish existed for solo builders?
 
 - 🗂️ [Sidequests](https://github.com/eeshansrivastava89/sidequests) — local dashboard that scans your repos and summarizes project health, GitHub state, and next actions.
-- 🧭 [Repo Visualizer Kit](https://github.com/eeshansrivastava89/repo-visualizer-kit) — reusable kit for visualizing codebases, also integrated with a Codex skill.
 
-### Apps & Utilities
+### What small apps are worth building anyway?
 
 - ❓ [Quizzard](https://github.com/eeshansrivastava89/quizzard) — real-time quiz app for live events; a free, self-hosted Kahoot or Mentimeter alternative.
 - 🌦️ [Weather App](https://github.com/eeshansrivastava89/weather-app) — weather explorer for US ZIP codes with current, historical, and forecast data.
 
-### Platform
+### Where do these projects live together?
 
 - 🌐 [datascienceapps](https://github.com/eeshansrivastava89/datascienceapps) — collection of 0 to 1 full-stack data science web apps built with Astro, PostHog, Supabase, and Python.
 
