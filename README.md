@@ -11,9 +11,6 @@
 
 > Building sidequests that combine data science, privacy and gamification - for fun and for learning. 
 
-🌐 [eeshans.com](https://eeshans.com) — hub for all projects, writing, and analysis.  
-✍️ [Asymptotic](https://eeshans.com/writing) — My Substack - pragmatic takes on AI, data science, and privacy.
-
 ## Projects
 
 - 📊 [How I Prompt](https://github.com/eeshansrivastava89/howiprompt) — generate stats on your local conversation history with coding agents and find your prompting persona
@@ -26,3 +23,6 @@
 ## Reach Me
 
 - [LinkedIn](https://www.linkedin.com/in/eeshans/) | [Twitter / X](https://x.com/notesundrground) | [eeshans.com](https://eeshans.com)
+
+🌐 [eeshans.com](https://eeshans.com) — hub for all projects, writing, and analysis.  
+✍️ [Asymptotic](https://eeshans.com/writing) — My Substack - pragmatic takes on AI, data science, and privacy.
