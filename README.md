@@ -9,7 +9,7 @@
 ![Astro](https://img.shields.io/badge/Astro-111827?style=flat&logo=astro&logoColor=white)
 ![Privacy](https://img.shields.io/badge/Privacy-374151?style=flat)
 
-> Building open-source experiments and tools around AI, data science, privacy, and local-first software. At Starbucks, I lead data science for AI/ML, personalization, and experimentation on products used by 40M+ users.
+> Building sidequests that combine data science, privacy and gamification - for fun and for learning. 
 
 🌐 [eeshans.com](https://eeshans.com) — hub for all projects, writing, and analysis.  
 ✍️ [Asymptotic](https://eeshans.com/writing) — My Substack - pragmatic takes on AI, data science, and privacy.
