@@ -15,10 +15,14 @@
 
 - 📊 [How I Prompt](https://github.com/eeshansrivastava89/howiprompt) — generate stats on your local conversation history with coding agents and find your prompting persona
 - 🧠 [A/B Testing Memory Game](https://github.com/eeshansrivastava89/ab-simulator) — live experiment on game difficulty and player behavior, with published statistical analysis.
-- 🗂️ [Sidequests](https://github.com/eeshansrivastava89/sidequests) — local dashboard that scans your repos and summarizes project health, GitHub state, and next actions.
 - 🦙 [Local LLM Bench](https://github.com/eeshansrivastava89/local-llm-bench) — benchmarks MLX and Ollama models on structured data extraction accuracy.
 - ❓ [Quizzard](https://github.com/eeshansrivastava89/quizzard) — real-time quiz app for live events; a free, self-hosted Kahoot or Mentimeter alternative.
 - 🌦️ [Weather App](https://github.com/eeshansrivastava89/weather-app) — weather explorer for US ZIP codes with current, historical, and forecast data.
+
+## Tools
+
+- 🗂️ [Sidequests](https://github.com/eeshansrivastava89/sidequests) — local dashboard that scans your repos and summarizes project health, GitHub state, and next actions.
+- 🗂️ [Brewfolio](https://github.com/eeshansrivastava89/brewfolio) — extract of my portfolio & project design philosophy into a reusable coffee-flavored Astro theme.
 
 ## Reach Me
 
