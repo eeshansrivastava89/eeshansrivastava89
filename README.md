@@ -9,7 +9,7 @@
 ![Astro](https://img.shields.io/badge/Astro-111827?style=flat&logo=astro&logoColor=white)
 ![Privacy](https://img.shields.io/badge/Privacy-374151?style=flat)
 
-> Building sidequests that combine data science, privacy and gamification - for fun and for learning. 
+> Building stuff that combines data science, gamification, privacy and web design. 
 
 ## Projects
 
