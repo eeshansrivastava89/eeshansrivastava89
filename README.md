@@ -9,8 +9,6 @@
 ![Astro](https://img.shields.io/badge/Astro-111827?style=flat&logo=astro&logoColor=white)
 ![Privacy](https://img.shields.io/badge/Privacy-374151?style=flat)
 
-> Building stuff that combines data science, gamification, privacy and web design. 
-
 ## Projects
 
 - 📊 [How I Prompt](https://github.com/eeshansrivastava89/howiprompt) — generate stats on your local conversation history with coding agents and find your prompting persona
