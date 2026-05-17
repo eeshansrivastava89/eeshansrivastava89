@@ -13,7 +13,7 @@
 
 - 📊 [How I Prompt](https://github.com/eeshansrivastava89/howiprompt) — generate stats on your local conversation history with coding agents and find your prompting persona
 - 🧠 [A/B Testing Memory Game](https://github.com/eeshansrivastava89/ab-simulator) — live experiment on game difficulty and player behavior, with published statistical analysis.
-- 🦙 [Local LLM Bench](https://github.com/eeshansrivastava89/local-llm-bench) — benchmarks MLX and Ollama models on structured data extraction accuracy.
+- 🦙 [Local LLM Visual Bench](https://github.com/eeshansrivastava89/local-llm-visual-benchmark) — benchmarking local AI models with visual prompts such as building sakura trees and solar system animations
 - ❓ [Quizzard](https://github.com/eeshansrivastava89/quizzard) — real-time quiz app for live events; a free, self-hosted Kahoot or Mentimeter alternative.
 - 🌦️ [Weather App](https://github.com/eeshansrivastava89/weather-app) — weather explorer for US ZIP codes with current, historical, and forecast data.
 
