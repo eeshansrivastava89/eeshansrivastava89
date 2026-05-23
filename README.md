@@ -9,6 +9,8 @@
 ![Astro](https://img.shields.io/badge/Astro-111827?style=flat&logo=astro&logoColor=white)
 ![Privacy](https://img.shields.io/badge/Privacy-374151?style=flat)
 
+> Builder, leader and teacher. Working towards building sustainable & privacy focused agentic coding practices for human-centered AI.
+
 ## Data Science & Local AI Projects
 
 - [How I Prompt](https://github.com/eeshansrivastava89/howiprompt) — analyze your prompting activity and language patterns for Claude, Codex, Pi, OpenCode etc. 
