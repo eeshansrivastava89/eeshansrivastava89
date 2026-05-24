@@ -1,6 +1,6 @@
 # Hi, I'm Eeshan 👋
 
-📍 Seattle | ☕ Sr. Data Science Manager @ Starbucks | 🧪 AI/ML, & experimentation | 🤖 Local AI Nerd | ✍️ Writing at [Asymptotic](https://eeshans.com/writing)
+📍 Seattle | ☕ Sr. Data Science Manager @ Starbucks | 🤖 Local AI Nerd | ✍️ Writing at [Asymptotic](https://eeshans.com/writing)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-1f2937?style=flat)
