@@ -1,4 +1,4 @@
-# Hi, I'm Eeshan 👋
+### Hi, I'm Eeshan 👋
 
 📍 Seattle | ☕ Sr. Data Science Manager @ Starbucks | 🤖 Local AI Nerd | ✍️ Writing at [Asymptotic](https://eeshans.com/writing)
 
@@ -9,19 +9,15 @@
 ![Astro](https://img.shields.io/badge/Astro-111827?style=flat&logo=astro&logoColor=white)
 ![Privacy](https://img.shields.io/badge/Privacy-374151?style=flat)
 
-## Data Science
+I have a computer science & data science background. Currently leading large-scale recommender systems & experimentation projects. In my spare time, I like exploring how to assess reliability & trust in LLMs, along with ultra-low cost implementations of LLMs in Data Science & ML use cases. I believe in human-centric approaches to using new technology, not replacing them.  
+
+**LLM + Data Science & ML Use Cases**
 - [How I Prompt](https://github.com/eeshansrivastava89/howiprompt) — analyze your prompting activity and language patterns for Claude, Codex, Pi, OpenCode etc. 
 - [A/B Testing Memory Game](https://github.com/eeshansrivastava89/ab-simulator) — live A/B test using a memory game puzzle concept, with always-on stats & python analysis
 - [Weather App](https://github.com/eeshansrivastava89/weather-app) — weather explorer for US ZIP codes with current, historical, and forecast data
 
-## Local AI
+**Local AI Execution, LLM Benchmarks & Evals**
 - [Local LLM Visual Bench](https://github.com/eeshansrivastava89/local-llm-visual-benchmark) — benchmarking local AI models such as Qwen 3.6 and Gemma 4 for practical use cases
 
-## Open Source Tools
-- [Sidequests](https://github.com/eeshansrivastava89/sidequests) — local AI-powered dashboard that scans your repos and summarizes project health and next actions
-- [Quizzard](https://github.com/eeshansrivastava89/quizzard) — free, self-hosted Kahoot or Mentimeter alternative for live quizzes
-- [Brewfolio](https://github.com/eeshansrivastava89/brewfolio) — extract of my portfolio & project design philosophy into a reusable coffee-flavored Astro theme
-
-## Reach Me
-
+**Reach Me**
 - [LinkedIn](https://www.linkedin.com/in/eeshans/) | [Twitter / X](https://x.com/notesundrground) | [eeshans.com](https://eeshans.com)
