@@ -17,7 +17,10 @@ I have a computer science & data science background. Currently leading large-sca
 - [Weather App](https://github.com/eeshansrivastava89/weather-app) — weather explorer for US ZIP codes with current, historical, and forecast data
 
 **Local AI Execution, LLM Benchmarks & Evals**
-- [Local LLM Visual Bench](https://github.com/eeshansrivastava89/local-llm-visual-benchmark) — benchmarking local AI models such as Qwen 3.6 and Gemma 4 for practical use cases
+- [Local LLM Visual Bench](https://github.com/eeshansrivastava89/local-llm-visual-benchmark) — benchmarking local AI models such as Qwen 3.6 and Gemma 4 with visual / animation prompts
 
-**Reach Me**
-- [LinkedIn](https://www.linkedin.com/in/eeshans/) | [Twitter / X](https://x.com/notesundrground) | [eeshans.com](https://eeshans.com)
+**Some useful tools**
+- [Quizzard](https://github.com/eeshansrivastava89/quizzard) - if you don't want to pay for Kahoot
+- [Sidequests](https://github.com/eeshansrivastava89/sidequests) - track the health & get AI summaries of your slopware sidequests (maybe it helps you clean things up)
+
+**Reach Me** | [LinkedIn](https://www.linkedin.com/in/eeshans/) | [Twitter / X](https://x.com/notesundrground) | [eeshans.com](https://eeshans.com)
