@@ -9,7 +9,7 @@
 ![Astro](https://img.shields.io/badge/Astro-111827?style=flat&logo=astro&logoColor=white)
 ![Privacy](https://img.shields.io/badge/Privacy-374151?style=flat)
 
-I have a computer science & data science background. Currently leading large-scale recommender systems & experimentation projects. In my spare time, I like exploring how to assess reliability & trust in LLMs, along with ultra-low cost implementations of LLMs in Data Science & ML use cases. I believe in human-centric approaches to using new technology, not replacing them.  
+I have a computer science & data science background. Currently leading large-scale recommender systems & experimentation projects for a global consumer brand. In my spare time, I like exploring how to assess reliability & trust in LLMs, along with ultra-low cost implementations of LLMs in Data Science & ML use cases. I believe in human-centric approaches to using new technology, not replacing them.  
 
 **LLM + Data Science & ML Use Cases**
 - [How I Prompt](https://github.com/eeshansrivastava89/howiprompt) — analyze your prompting activity and language patterns for Claude, Codex, Pi, OpenCode etc. 
