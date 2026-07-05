@@ -20,6 +20,7 @@ I have a computer science & data science background. Currently leading large-sca
 - [Local LLM Visual Bench](https://github.com/eeshansrivastava89/local-llm-visual-benchmark) — benchmarking local AI models such as Qwen 3.6 and Gemma 4 with visual / animation prompts
 
 **Some useful tools**
+- [age-vault](https://github.com/eeshansrivastava89/age-vault) - cli for encrypting / decrytping files using age (very useful for protecting files & folders from LLMs)
 - [Quizzard](https://github.com/eeshansrivastava89/quizzard) - if you don't want to pay for Kahoot
 - [Sidequests](https://github.com/eeshansrivastava89/sidequests) - track the health & get AI summaries of your slopware sidequests (maybe it helps you clean things up)
 
