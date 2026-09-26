@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="414" viewBox="0 0 560 414" role="img" aria-labelledby="title desc">
+  <title id="title">Eeshan Srivastava</title>
+  <desc id="desc">Seattle. Local AI Nerd. An illustrative curve approaches a dotted asymptote, a nod to Asymptotic.</desc>
+  <style>
+    text:not([fill]) { fill: #f2eee5; }
+    .display { font-family: Georgia, 'Times New Roman', serif; letter-spacing: -3px; }
+    .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', monospace; letter-spacing: 1.2px; }
+  </style>
+  <rect width="560" height="414" fill="#191c1b"/>
+  <rect width="4" height="414" fill="#ff785e"/>
+  <circle cx="33" cy="38" r="5" fill="#ff785e"/>
+  <text x="51" y="43" class="mono" font-size="13">SEATTLE, WA</text>
+
+  <text x="28" y="133" class="display" font-size="92">Eeshan</text>
+  <text x="25" y="224" class="display" font-size="96" font-style="italic" fill="#ff785e">Srivastava</text>
+  <line x1="28" y1="260" x2="532" y2="260" stroke="#353b36"/>
+  <text x="28" y="306" class="mono" font-size="13">LOCAL AI NERD</text>
+  <text x="28" y="341" class="display" font-size="25" font-style="italic" style="letter-spacing: -.5px" fill="#b6b6a9">Asymptotic</text>
+  <g transform="translate(310 282)">
+    <path d="M0 0 V91 H215 M0 45 H215 M55 0 V91 M110 0 V91 M165 0 V91" fill="none" stroke="#353b36"/>
+    <path d="M0 79 H215" fill="none" stroke="#b6b6a9" stroke-dasharray="3 6"/>
+    <path d="M4 5 C24 5 22 48 52 59 S120 73 211 76" fill="none" stroke="#ff785e" stroke-width="3"/>
+    <circle cx="211" cy="76" r="4" fill="#ff785e"/>
+  </g>
+</svg>
