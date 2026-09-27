@@ -2,7 +2,7 @@
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/header-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/header-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header.svg" width="85%" alt="Hi, I'm Eeshan 👋 — Eeshan Srivastava">
+  <img src="assets/header.svg" width="100%" alt="Hi, I'm Eeshan 👋 — Eeshan Srivastava">
 </picture>
 
 📍 Seattle | ☕ Sr. Data Science Manager @ Starbucks | 🤖 Local AI Nerd | ✍️ Writing at [Asymptotic](https://eeshans.com/writing)
